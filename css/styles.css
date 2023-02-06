@@ -1,5 +1,10 @@
 /* Your code goes here, if needed */
-
+button {
+    background-color: teal;
+    color: white;
+    border-radius: 3px;
+    border-style: hidden;
+}
 
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
