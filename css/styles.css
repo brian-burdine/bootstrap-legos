@@ -1,11 +1,18 @@
 /* Your code goes here, if needed */
-button {
+/* button {
+    max-width: fit-content;
     background-color: teal;
     color: white;
     border-radius: 3px;
     border-style: hidden;
-}
+    margin-bottom: 15px;
+} */
 
+/*
+.card > * {
+    margin: 10px;
+}
+*/
 
 /* DO NOT CHANGE CODE BELOW THIS LINE */
 .red {
